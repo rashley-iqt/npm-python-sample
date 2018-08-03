@@ -1,0 +1,14 @@
+.fileUpload {
+  flex: 1;
+  display: flex;
+  align-items: center
+}
+
+.fileUpload label {
+  flex: 0;
+  margin-right: 0;
+}
+
+.fileUpload span {
+  flex: 1;
+}
